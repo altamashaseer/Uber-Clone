@@ -130,7 +130,5 @@ Real-time functionality is handled via WebSockets. Here are the key events:
 | `ride-ended`     | `ride`     | Notifies the user that the ride has been completed.             |
 | `error`          | `{ message }` | Sends an error message to the client.                           |
 
-## License
 
-This project is licensed under the MIT License.
 
